@@ -1,2 +1,0 @@
-Hello we are learning unix commands today.
-Hello some more text
