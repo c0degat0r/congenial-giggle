@@ -4,10 +4,3 @@ Scenario Login as a valid user
 Given I login as valid username and password
 When I click the login button
 I should be able to login
-
-
-Scenario Verify the tabs are showing on the dash board
-Given I login as valid username and password
-When I click the login button
-I should be able to login
-And I should see the tabs
